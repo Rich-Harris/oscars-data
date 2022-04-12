@@ -1,0 +1,16 @@
+body {
+	--best-actor: hsl(229, 100%, 75%);
+	--best-actress: hsl(323, 100%, 70%);
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+		'Open Sans', 'Helvetica Neue', sans-serif;
+	font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 300;
+}
