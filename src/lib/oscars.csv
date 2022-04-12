@@ -37,7 +37,7 @@ oscar_no,oscar_yr,award,name,movie,age,birth_pl,birth_date,birth_mo,birth_d,birt
 36,1964,Best actress,Patricia Neal,Hud,37,Kentucky,1926-01-20,1,20,1926
 37,1965,Best actress,Julie Andrews,Mary Poppins,29,England,1935-10-01,10,1,1935
 38,1966,Best actress,Julie Christie,Darling,25,India,1940-04-14,4,14,1940
-39,1967,Best actress,Elizabeth Taylor,Who's Afraid of Virginia Wolf,34,England,1932-02-27,2,27,1932
+39,1967,Best actress,Elizabeth Taylor,Who's Afraid of Virginia Woolf,34,England,1932-02-27,2,27,1932
 40,1968,Best actress,Katharine Hepburn,Guess Who's Coming to Dinner,60,Connecticut,1907-05-12,5,12,1907
 41,1969,Best actress,Barbra Streisand,Funny Girl,26,New York,1942-04-24,4,24,1942
 41,1969,Best actress,Katharine Hepburn,The Lion in Winter,61,Connecticut,1907-05-12,5,12,1907
@@ -84,7 +84,7 @@ oscar_no,oscar_yr,award,name,movie,age,birth_pl,birth_date,birth_mo,birth_d,birt
 82,2010,Best actress,Sandra Bullock,The Blind Side,45,Virginia,1964-07-26,7,26,1964
 83,2011,Best actress,Natalie Portman,Black Swan,29,Israel,1981-09-06,9,6,1981
 84,2012,Best actress,Meryl Streep,The Iron Lady,62,New Jersey,1949-06-22,6,22,1949
-1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Las,44,Switzerland,1884-07-23,7,23,1884
+1,1929,Best actor,Emil Jannings,The Way of All Flesh & The Last Command,44,Switzerland,1884-07-23,7,23,1884
 2,1930,Best actor,Warner Baxter,In Old Arizona,40,Ohio,1889-03-29,3,29,1889
 3,1931,Best actor,George Arliss,Disraeli,62,England,1868-04-10,4,10,1868
 4,1932,Best actor,Lionel Barrymore,A Free Soul,53,Pennsylvania,1878-04-28,4,28,1878
@@ -132,7 +132,7 @@ oscar_no,oscar_yr,award,name,movie,age,birth_pl,birth_date,birth_mo,birth_d,birt
 45,1973,Best actor,Marlon Brando,The Godfather,48,Nebraska,1924-04-03,4,3,1924
 46,1974,Best actor,Jack Lemmon,Save the Tiger,48,Massachusetts,1925-02-08,2,8,1925
 47,1975,Best actor,Art Carney,Harry and Tonto,56,New York,1918-11-04,11,4,1918
-48,1976,Best actor,Jack Nicholson,One Flew Over The Cuckoo's Nest,38,New York,1937-04-22,4,22,1937
+48,1976,Best actor,Jack Nicholson,One Flew Over the Cuckoo's Nest,38,New York,1937-04-22,4,22,1937
 49,1977,Best actor,Peter Finch,Network,60,England,1916-09-28,9,28,1916
 50,1978,Best actor,Richard Dreyfuss,The Goodbye Girl,30,New York,1947-10-29,10,29,1947
 51,1979,Best actor,Jon Voight,Coming Home,40,New York,1938-12-29,12,29,1938
