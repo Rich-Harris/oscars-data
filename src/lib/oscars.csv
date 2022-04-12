@@ -47,7 +47,7 @@ oscar_no,oscar_yr,award,name,movie,age,birth_pl,birth_date,birth_mo,birth_d,birt
 45,1973,Best actress,Liza Minnelli,Cabaret,26,California,1946-03-12,3,12,1946
 46,1974,Best actress,Glenda Jackson,A Touch of Class,37,England,1936-05-09,5,9,1936
 47,1975,Best actress,Ellen Burstyn,Alice Doesn't Live Here Anymore,42,Michigan,1932-12-07,12,7,1932
-48,1976,Best actress,Louise Fletcher,One Flew Over the Cockoo's Nest,41,Alabama,1934-07-22,7,22,1934
+48,1976,Best actress,Louise Fletcher,One Flew Over the Cuckoo's Nest,41,Alabama,1934-07-22,7,22,1934
 49,1977,Best actress,Faye Dunaway,Network,35,Florida,1941-01-14,1,14,1941
 50,1978,Best actress,Diane Keaton,Annie Hall,31,California,1946-01-05,1,5,1946
 51,1979,Best actress,Jane Fonda,Coming Home,41,New York,1937-12-21,12,21,1937
@@ -132,7 +132,7 @@ oscar_no,oscar_yr,award,name,movie,age,birth_pl,birth_date,birth_mo,birth_d,birt
 45,1973,Best actor,Marlon Brando,The Godfather,48,Nebraska,1924-04-03,4,3,1924
 46,1974,Best actor,Jack Lemmon,Save the Tiger,48,Massachusetts,1925-02-08,2,8,1925
 47,1975,Best actor,Art Carney,Harry and Tonto,56,New York,1918-11-04,11,4,1918
-48,1976,Best actor,Jack Nicholson,One Flew Over The Cuckoo's Nes,38,New York,1937-04-22,4,22,1937
+48,1976,Best actor,Jack Nicholson,One Flew Over The Cuckoo's Nest,38,New York,1937-04-22,4,22,1937
 49,1977,Best actor,Peter Finch,Network,60,England,1916-09-28,9,28,1916
 50,1978,Best actor,Richard Dreyfuss,The Goodbye Girl,30,New York,1947-10-29,10,29,1947
 51,1979,Best actor,Jon Voight,Coming Home,40,New York,1938-12-29,12,29,1938

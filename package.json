@@ -14,6 +14,7 @@
     "@rollup/plugin-dsv": "^2.0.3",
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
+    "d3-quadtree": "^3.0.1",
     "prettier": "^2.5.1",
     "prettier-plugin-svelte": "^2.5.0",
     "svelte": "^3.44.0"
